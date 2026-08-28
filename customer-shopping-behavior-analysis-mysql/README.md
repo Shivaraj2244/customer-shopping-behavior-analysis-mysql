@@ -129,17 +129,4 @@ Open `customer_behavior_sql_queries.sql` in MySQL Workbench (or your client of c
 ### 7. Explore the dashboard
 Open `customer_behavior_dashboard.pbix` in Power BI Desktop and point the data source at your MySQL database.
 
-## 📁 Repository Structure
-```
-├── customer_shopping_behavior.csv              # Raw dataset
-├── Customer_Shopping_Behavior_Analysis.ipynb   # Data cleaning + MySQL loading
-├── customer_behavior_sql_queries.sql           # MySQL business-question queries
-├── customer_behavior_dashboard.pbix            # Power BI dashboard
-├── Business Problem  Document.pdf              # Business problem statement
-├── Customer Shopping Behavior Analysis.pdf     # Written project report
-├── Customer-Shopping-Behavior-Analysis.pptx    # Stakeholder presentation
-├── requirements.txt
-├── .env.example
-└── README.md
-```
 
